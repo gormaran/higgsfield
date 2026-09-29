@@ -1,0 +1,7 @@
+# Generated media for video-5min (kept out of git)
+video-5min/clips/
+video-5min/vo/
+video-5min/images/
+video-5min/.norm/
+*.mp4
+__pycache__/
