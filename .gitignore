@@ -5,3 +5,9 @@ video-5min/images/
 video-5min/.norm/
 *.mp4
 __pycache__/
+
+# Local secrets and Python env
+.env
+.env.*
+!.env.example
+.venv/
